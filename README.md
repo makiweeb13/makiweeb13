@@ -9,7 +9,7 @@
   - 👯 I’m looking to collaborate on web development
   - 🤔 I’m looking for help with C
   - 💬 Ask me about anything
-  - :mailbox:How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96)
+  - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96)
   - 😄 Pronouns: She/her
   - ⚡ Fun fact: I'm a weeb
 
