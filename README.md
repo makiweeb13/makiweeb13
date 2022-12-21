@@ -11,7 +11,7 @@
   - 💬 Ask me about anything
   - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96)
   - 😄 Pronouns: She/her
-  - ⚡ Fun fact: I'm a weeb
+  - ⚡ Fun fact: My youtube algorithm's the best
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
