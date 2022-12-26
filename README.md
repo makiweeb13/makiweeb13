@@ -9,7 +9,7 @@
   - 👯 I’m looking to collaborate on web development
   - 🤔 I’m looking for help with C
   - 💬 Ask me about anything
-  - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96), [Linked In](https://www.linkedin.com/in/maria-mae-kiskis-648954257/)
+  - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96), [LinkedIn](https://www.linkedin.com/in/maria-mae-kiskis-648954257/)
   - 😄 Pronouns: She/her
   - ⚡ Fun fact: My youtube algorithm's the BEST
 
