@@ -5,7 +5,7 @@
   I'm a first year student studying Computer Science.
 
   - 🔭 I’m currently working on building projects with JavaScript
-  - 🌱 I’m currently learning intermediate JavaScript, front-end libraries and basic C
+  - 🌱 I’m currently learning intermediate JavaScript, front-end frameworks and libraries, and basic C
   - 👯 I’m looking to collaborate on web development
   - 🤔 I’m looking for help with C
   - 💬 Ask me about anything
