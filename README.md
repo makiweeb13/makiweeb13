@@ -30,8 +30,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
   </div>
 
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makiweeb13&theme=dark)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makiweeb13&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## Here's what I do:
