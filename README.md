@@ -4,9 +4,9 @@
 
   I'm a first year student studying Computer Science.
 
-  - 🔭 I’m currently working on building projects with JavaScript
-  - 🌱 I’m currently learning intermediate JavaScript, front-end frameworks and libraries, and basic C
-  - 👯 I’m looking to collaborate on web development
+  - 🔭 I’m currently working on studying C programming along with JavaScript
+  - 🌱 I’m currently learning intermediate JavaScript, C, and front-end frameworks and libraries.
+  - 👯 I’m looking to collaborate on programming in general
   - 🤔 I’m looking for help with C
   - 💬 Ask me about anything
   - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96), [LinkedIn](https://www.linkedin.com/in/maria-mae-kiskis-648954257/)
