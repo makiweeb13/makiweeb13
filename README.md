@@ -5,13 +5,13 @@
   I'm a first year student studying Computer Science.
 
   - 🔭 I’m currently working on web development
-  - 🌱 I’m currently learning C, JavaScript, C, and front-end frameworks and libraries.
+  - 🌱 I’m currently learning backend technologes and front-end frameworks and libraries.
   - 👯 I’m looking to collaborate on programming in general
   - 🤔 I’m looking for help with C and Java
   - 💬 Ask me about anything
   - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96), [LinkedIn](https://www.linkedin.com/in/maria-mae-kiskis-648954257/)
   - 😄 Pronouns: She/her
-  - ⚡ Fun fact: My youtube algorithm's the BEST
+  - ⚡ Fun fact: "Tech otaku saves the world"
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
