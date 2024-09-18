@@ -1,5 +1,6 @@
 # Hello World 👋 I'm Mae!
 
+<!--
 ### :woman_technologist: About Me :
 
   I'm a first year student studying Computer Science.
@@ -12,6 +13,8 @@
   - :mailbox: How to reach me: [Facebook](https://www.facebook.com/mariamae.kiskis.96), [LinkedIn](https://www.linkedin.com/in/maria-mae-kiskis-648954257/)
   - 😄 Pronouns: She/her
   - ⚡ Fun fact: "Tech otaku saves the world"
+
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
